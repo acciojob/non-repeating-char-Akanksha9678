@@ -13,9 +13,6 @@ let map=new Map();
 		if(char[1]==1){
 			return char[0]
 		}
-		else{
-			return null;
-		}
 	}
 }
 const input = prompt("Enter a string");
